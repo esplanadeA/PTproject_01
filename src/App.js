@@ -8,8 +8,8 @@ const App = () => {
   return (
     <div className='App'>
       <div className='gradient__bg'>
-<Navbar></Navbar>
-<Header></Header>
+         <Navbar></Navbar>
+         <Header></Header>
       </div>
       <Brand/>
       <WhatGPT/>
